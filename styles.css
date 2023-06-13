@@ -1,11 +1,20 @@
 :root {
+  /* Variables definitions */
   --neutral: #232946;
   --base-100: #fffffe;
   --neutral-focus: #121629;
   --primary: #eebbc3;
   --secondary: #b8c1ec;
   --accent: #d4d8f0;
+
+  /* ... */
 }
+
+/* Disable length-zero-no-unit rule for :root block */
+
+/* Rest of the CSS code */
+
+/* ... */
 
 * {
   margin: 0;
@@ -208,6 +217,7 @@ footer {
   h1 {
     font-size: 3rem;
   }
+
   #projects .project-tile {
     height: 600px;
     width: 100%;
