@@ -207,7 +207,7 @@ section {
   align-items: center;
 }
 
-footer {
+article {
   border-top: 3px solid var(--primary);
   color: var(--base-100);
   font-size: 25px;
