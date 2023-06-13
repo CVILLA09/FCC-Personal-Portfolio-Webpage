@@ -6,15 +6,7 @@
   --primary: #eebbc3;
   --secondary: #b8c1ec;
   --accent: #d4d8f0;
-
-  /* ... */
 }
-
-/* Disable length-zero-no-unit rule for :root block */
-
-/* Rest of the CSS code */
-
-/* ... */
 
 * {
   margin: 0;
@@ -38,6 +30,8 @@ h6 {
 
 h1 {
   font-size: 60px;
+  margin-bottom: 10vh;
+  margin-top: 0%;
 }
 
 #navbar {
@@ -98,7 +92,7 @@ section {
 #projects h1 {
   border-bottom: 5px solid var(--neutral);
   width: fit-content;
-  margin: auto;
+  margin-bottom: 5vh;
 }
 
 #projects .projects {
@@ -174,13 +168,14 @@ section {
 }
 
 #contact h1 {
-  margin-top: 300px;
+  margin-top: 20vh;
 }
 
 #contact .coffee-question {
   color: var(--primary);
   font-size: 25px;
   font-style: italic;
+  margin-bottom: 20vh;
 }
 
 #contact .social-medias {
@@ -204,6 +199,12 @@ section {
 
 #contact .social-media:hover {
   transform: translateX(10px);
+}
+
+#contact .contact-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 footer {
