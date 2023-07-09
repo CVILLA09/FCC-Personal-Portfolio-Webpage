@@ -28,12 +28,14 @@ h6 {
   font-family: "Poppins", sans-serif;
 }
 
+/* Header section */
 h1 {
   font-size: 60px;
   margin-bottom: 10vh;
   margin-top: 0%;
 }
 
+/* Navigation bar */
 #navbar {
   display: flex;
   justify-content: center;
@@ -61,6 +63,7 @@ h1 {
   text-decoration: underline;
 }
 
+/* Welcome section */
 section {
   min-height: 100vh;
   padding: 70px 0;
@@ -84,15 +87,18 @@ section {
   font-style: italic;
 }
 
+/* Projects section */
 #projects {
   background-color: var(--secondary);
   color: var(--neutral);
 }
 
 #projects h1 {
+  /* Border bottom style */
   border-bottom: 5px solid var(--neutral);
-  width: fit-content;
-  margin-bottom: 5vh;
+  padding-bottom: 20px; /* Adjust the value as needed */
+  width: 80%; /* Set a specific width value */
+  margin-left: 10%; /* Adjust the left margin to center the element */
 }
 
 #projects .projects {
@@ -131,13 +137,14 @@ section {
 }
 
 #projects .project-tile span {
-  opacity: 0%;
+  opacity: 50%;
   padding: 0 5px;
+  color: var(--base-100);
 }
 
 #projects .project-tile:hover span {
   opacity: 100%;
-  color: var(--primary);
+  color: var(--accent);
   transition: opacity 0.25s ease-in;
 }
 
@@ -146,7 +153,7 @@ section {
   width: max-content;
   display: flex;
   align-items: center;
-  margin: auto;
+  margin: 30px auto;
   padding: 0 15px;
   background-color: var(--neutral);
   color: var(--accent);
@@ -162,6 +169,7 @@ section {
   color: var(--base-100);
 }
 
+/* Contact section */
 #contact {
   background-color: var(--neutral);
   color: var(--base-100);
@@ -207,6 +215,7 @@ section {
   align-items: center;
 }
 
+/* Footer section */
 footer {
   border-top: 3px solid var(--primary);
   color: var(--base-100);
