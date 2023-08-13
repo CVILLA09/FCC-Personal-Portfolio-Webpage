@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="center">
-  <img width="923" alt="Screenshot" src="">
+  <img width="600" alt="Screenshot" src="assets/freeCodeCamp.png">
 </div>
   <br/>
 <!-- TABLE OF CONTENTS -->
