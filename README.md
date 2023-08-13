@@ -3,8 +3,10 @@
   <h1><b> FreeCodeCamp - Personal Portfolio Webpage<br/></b></h1>
 <br/>
 </div>
-
 <br/>
+<div align="center">
+  <img width="923" alt="Screenshot" src="">
+  <br/>
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
 
