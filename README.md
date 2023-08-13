@@ -6,6 +6,7 @@
 <br/>
 <div align="center">
   <img width="923" alt="Screenshot" src="">
+</div>
   <br/>
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
