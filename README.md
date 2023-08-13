@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <h1><b> Welcome to my Personal Portfolio Webpage built for FreeCodeCamp! 👋<br/></b></h1>
+  <h1><b> Welcome to my Personal Portfolio Webpage! 👋<br/></b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
