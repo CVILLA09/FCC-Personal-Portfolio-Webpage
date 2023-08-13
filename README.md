@@ -1,20 +1,21 @@
 <a name="readme-top"></a>
 <div align="center">
-  <h1><b> Welcome to my Personal Portfolio Webpage! 👋<br/></b></h1>
+  <h1><b> FreeCodeCamp - Personal Portfolio Webpage<br/></b></h1>
+<br/>
 </div>
 
+<br/>
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+- [🛠 Built With](#built-with)
+- [Tech Stack](#tech-stack)
+- [Key Features](#key-features)
 - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
+- [Setup](#setup)
+- [Prerequisites](#prerequisites)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -102,14 +103,12 @@ Navigate to the main directory by running the following command:
 ## 👥 Author <a name="authors"></a>
 
 
-
 👤 **Cristian Villa**
 
 
 - GitHub: [@CVILLA09](https://github.com/CVILLA09)
 
 - LinkedIn: [@CristianVilla](www.linkedin.com/in/cristian-villa-5b518127b)
-
 
 
 <br/>
